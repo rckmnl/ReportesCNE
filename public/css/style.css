@@ -1,0 +1,35 @@
+body{
+
+}
+.navbar-default .navbar-link:hover {
+  color: #ffbbbc;
+}
+
+
+.main-color-bg{
+  background-color: #e74c3c !important;
+  border-color: #c0392b !important;
+  color:#ffffff !important;
+}
+
+
+}
+
+/* Breadcrumb */
+.breadcrumb{
+  background:#cccccc;
+  color:#333333;
+}
+
+/* Progress Bars */
+.progress-bar{
+  background:#333333;
+  color:#ffffff;
+}
+
+.dash-box{
+  text-align:center;
+}
+
+
+
